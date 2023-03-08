@@ -15,7 +15,7 @@
           <a href="https://github.com/sZeta99/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sZeta99&theme=gruvbox&layout=compact&hide_border=true"
           alt="sZeta99 :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sZeta99&theme=gruvbox&layout=compact&hide_border=true"
           alt="sZeta99 :: Top Langs by commit" />
           </a>
         </p>
