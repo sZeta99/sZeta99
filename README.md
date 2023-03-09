@@ -94,8 +94,23 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+<br>
+<br>
 
+---
+
+<br>
+
+
+## <img src="https://media.giphy.com/media/9eL2nce03h5WgtDcX5/giphy.gif" width="35"><b> Credit </b>
+
+- Photo by Sebastiaan Stam from Pexels: https://www.pexels.com/photo/silhouette-of-man-1480690/
+- Profile Remplete : https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
+- Badges : https://github.com/Ileriayo/markdown-badges
+
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <br>
 <br>
