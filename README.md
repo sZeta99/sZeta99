@@ -1,6 +1,6 @@
 ## <picture><img src = "https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width = 500px></picture>
 
 <br>
 
