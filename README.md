@@ -1,4 +1,6 @@
-## <img src = "https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width = 50px></picture> **About me**
+<img align="right" src = "https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width = 500px>
+
+## <img src = "https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width = 50px> **About me**
 
 
 
