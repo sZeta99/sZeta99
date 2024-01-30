@@ -90,7 +90,7 @@
 </div>
 
 <div align="left">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="https://github.com/sZeta99/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
