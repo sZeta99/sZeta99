@@ -105,7 +105,7 @@
 ## <img src="https://media.giphy.com/media/9eL2nce03h5WgtDcX5/giphy.gif" width="35"><b> Credit </b>
 
 - Photo by Sebastiaan Stam from Pexels: https://www.pexels.com/photo/silhouette-of-man-1480690/
-- Profile Remplete : https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
+- Profile Templete : https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
 - Badges : https://github.com/Ileriayo/markdown-badges
 
 <br>
